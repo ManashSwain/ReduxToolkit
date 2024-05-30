@@ -23,7 +23,8 @@ Features
 
 Demo
 
-A live demo of the app can be found here
+A live demo of the app can be found here:
+https://redux-toolkit-ten-alpha.vercel.app/
 
 Jargons to understand : 
 
